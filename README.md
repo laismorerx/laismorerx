@@ -1,4 +1,4 @@
-### Olá, eu sou a Laís!
+### Prazer, sou a Laís!
 
  <div align="center">
   <a href="https://github.com/laismorerx">
